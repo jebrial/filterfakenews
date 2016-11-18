@@ -1,5 +1,6 @@
 # filterfakenews
-
+Cred for the list:
+http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-want-to-keep-fake-news-out-of-your-1479260297-htmlstory.html
 ## Build:
 
 ```sh
